@@ -1,6 +1,7 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App] https://priyanga-s.github.io/Portfolio/
+This project was bootstrapped with [Create React App] https://priyanga-portfolio.netlify.app/
+
 
 
 
